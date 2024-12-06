@@ -6,7 +6,7 @@ This repository contains a machine learning model for predicting loan approvals.
 ## Project Structure
 The repository contains the following files:
 - **`Skills_Model.py`**: This Python script contains the code used to train the machine learning model for loan approval prediction. The code includes data preparation, model training, hyperparameter tuning, and saving the model for later use.
-- **`loan_approval_model.pkl`**: This is the saved version of the trained model. You can use this file to perform predictions without re-running the training process.
+- **`loan_approval_model.pkl`**: This is the saved version of the trained model. You can use this file to perform predictions without re-running the training process (Note: Because of the Size of the model, it is stored here: [Loan Approval Model Download](https://drive.google.com/drive/folders/153e2WTSyO3oGWIFiPiRa0JXU1-5CJiU4?usp=drive_link) ).
 - **Application Code**: To be provided later, this code will demonstrate how to use the trained model to make predictions.
 
 ## Model Code Explanation
