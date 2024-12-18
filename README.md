@@ -39,11 +39,11 @@ python ML_Prediction_LoanApplication.py
 ## How to Run the Model Code
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/Andrin2001/Skills_IntroductionToProgramming.git
+   git clone https://github.com/Andrin2001/LoanApplicationPrediction.git
    ```
 2. **Navigate to the Project Directory**:
    ```sh
-   cd Skills_IntroductionToProgramming
+   cd LoanApplicationPrediction
    ```
 3. **Install Dependencies**:
    You will need Python and several libraries. You can install the dependencies using:
